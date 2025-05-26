@@ -1,4 +1,4 @@
-package se.reky.hakan.insecure.repository;
+package com.example.insecureapp.repository;
 
 
 import org.springframework.data.jpa.repository.JpaRepository;

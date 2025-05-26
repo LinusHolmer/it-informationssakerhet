@@ -1,4 +1,4 @@
-package se.reky.hakan.insecure;
+package com.example.insecureapp;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

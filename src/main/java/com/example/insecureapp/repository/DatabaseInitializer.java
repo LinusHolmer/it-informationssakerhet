@@ -1,4 +1,4 @@
-package se.reky.hakan.insecure.repository;
+package com.example.insecureapp.repository;
 
 
 import jakarta.annotation.PostConstruct;

@@ -1,4 +1,4 @@
-package se.reky.hakan.insecure.web;
+package com.example.insecureapp.web;
 
 import jakarta.servlet.http.HttpSession;
 import org.springframework.beans.factory.annotation.Autowired;

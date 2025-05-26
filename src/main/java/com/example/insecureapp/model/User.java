@@ -1,4 +1,4 @@
-package se.reky.hakan.insecure.model;
+package com.example.insecureapp.model;
 
 
 import jakarta.persistence.Entity;

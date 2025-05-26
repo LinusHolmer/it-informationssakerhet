@@ -1,4 +1,4 @@
-package se.reky.hakan.insecure.web;
+package com.example.insecureapp.web;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
