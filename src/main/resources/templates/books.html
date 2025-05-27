@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+
+<ul>
+    <li th:each="book : ${books}">
+        <b th:text="${book.title}"></b> – <span th:text="${book.author}"></span>
+    </li>
+</ul>
+
+</body>
+</html>
